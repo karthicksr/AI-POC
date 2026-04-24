@@ -1,2 +1,4 @@
 # AI-POC
 POC on AI concepts
+api key
+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
